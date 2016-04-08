@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hedegeticurhebr00opitgoog/hedegeticurhebr00opitgoog_0073.png"; bbox 0 0 2192 3860; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 31 729 899 1129">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 31 729 899 1044">
+     <span class='ocr_line' id='line_1_1' title="bbox 143 729 899 834; baseline 0.034 -42"><span class='ocrx_word' id='word_1_1' title='bbox 143 753 145 760; x_wconf 69' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 499 735 503 741; x_wconf 82' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 559 729 899 834; x_wconf 60' lang='lat' dir='ltr'><strong>nfflustusest&#39;j</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 31 803 855 937; baseline 0.034 -33"><span class='ocrx_word' id='word_1_4' title='bbox 31 857 46 910; x_wconf 67' lang='lat'><strong>2:</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 85 803 415 937; x_wconf 58' lang='lat' dir='ltr'><strong>,fingebngregati</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 500 899 504 907; x_wconf 84' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 579 839 637 928; x_wconf 53' lang='lat'><strong>⁴25</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 651 846 855 934; x_wconf 69' lang='lat' dir='ltr'>Multitudo</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 31 917 530 1044; baseline 0.026 -34"><span class='ocrx_word' id='word_1_9' title='bbox 31 935 48 979; x_wconf 65' lang='lat'><strong>⁴¹</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 83 917 176 1043; x_wconf 51' lang='lat' dir='ltr'><strong>wo</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 190 942 407 1044; x_wconf 47' lang='lat' dir='ltr'>Progenie&amp;</span> <span class='ocrx_word' id='word_1_12' title='bbox 528 959 530 966; x_wconf 87' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 141 1050 463 1129">
+     <span class='ocr_line' id='line_1_4' title="bbox 141 1050 463 1129; baseline 0.031 -5"><span class='ocrx_word' id='word_1_13' title='bbox 141 1073 144 1080; x_wconf 79' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 212 1050 371 1129; x_wconf 79' lang='lat' dir='ltr'><strong>Liberi..⁴</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 461 1096 463 1104; x_wconf 36' lang='lat' dir='ltr'>v</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1100 3860">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1100 3860">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1100 3860; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1100 3860; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
